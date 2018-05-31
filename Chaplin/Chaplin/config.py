@@ -1,0 +1,1 @@
+DB_NAME = 'chaplin_db'
